@@ -1,0 +1,14 @@
+$breakpoint-sp: 768px;
+
+.hero {
+  position: relative;
+  min-height: 100svh;
+  overflow: hidden;
+}
+
+@media (max-width: $breakpoint-sp) {
+  .hero {
+    // SP用のスタイルを実装してください
+  }
+}
+

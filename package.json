@@ -1,0 +1,21 @@
+{
+  "name": "playverse-fes-frontend-interview",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=22 <23"
+  },
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview"
+  },
+  "dependencies": {
+    "astro": "7.2.9"
+  },
+  "devDependencies": {
+    "sass": "1.103.1"
+  }
+}
+

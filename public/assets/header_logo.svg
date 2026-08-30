@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 52" role="img" aria-labelledby="title">
+  <title id="title">PLAYVERSE FES 2026</title>
+  <path fill="#241455" d="M8 6h30c15 0 23 7 23 20S53 46 38 46H24v-12h14c5 0 8-2 8-8s-3-8-8-8H22v28H8V6Zm62 0h14v28h30v12H70V6Zm53 40 17-40h16l18 40h-15l-3-8h-17l-3 8h-13Zm20-19h9l-4-12-5 12Zm24-21h16l11 15 11-15h16l-20 27v13h-14V33L167 6Z"/>
+  <rect x="200" y="29" width="36" height="17" rx="8.5" fill="#ff5e67"/>
+  <text x="218" y="41.5" text-anchor="middle" font-family="Arial Black,Arial,sans-serif" font-size="8" fill="#fff">2026</text>
+</svg>
